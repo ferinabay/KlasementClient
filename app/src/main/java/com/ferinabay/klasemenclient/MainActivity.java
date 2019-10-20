@@ -5,7 +5,10 @@ import androidx.viewpager.widget.ViewPager;
 
 import android.os.Bundle;
 
+import com.ferinabay.klasemenclient.Model.Klasemen;
 import com.google.android.material.tabs.TabLayout;
+
+import java.util.List;
 
 public class MainActivity extends AppCompatActivity {
 
